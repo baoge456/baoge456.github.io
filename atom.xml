@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://bk.baoge.wang</id>
+    <title>宝哥博客</title>
+    <updated>2025-03-02T23:49:03.102Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://bk.baoge.wang"/>
+    <link rel="self" href="https://bk.baoge.wang/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://bk.baoge.wang/images/avatar.png</logo>
+    <icon>https://bk.baoge.wang/favicon.ico</icon>
+    <rights>All rights reserved 2025, 宝哥博客</rights>
+    <entry>
+        <title type="html"><![CDATA[世界上最神奇的24堂课]]></title>
+        <id>https://bk.baoge.wang/post/shi-jie-shang-zui-shen-qi-de-24-tang-ke/</id>
+        <link href="https://bk.baoge.wang/post/shi-jie-shang-zui-shen-qi-de-24-tang-ke/">
+        </link>
+        <updated>2025-03-02T23:47:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[绝密人性天书]]></title>
+        <id>https://bk.baoge.wang/post/di-er-pian/</id>
+        <link href="https://bk.baoge.wang/post/di-er-pian/">
+        </link>
+        <updated>2025-02-25T15:52:52.000Z</updated>
+    </entry>
+</feed>
