@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://bk.baoge.wang</id>
+    <title>宝哥博客</title>
+    <updated>2025-12-03T15:13:55.893Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://bk.baoge.wang"/>
+    <link rel="self" href="https://bk.baoge.wang/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://bk.baoge.wang/images/avatar.png</logo>
+    <icon>https://bk.baoge.wang/favicon.ico</icon>
+    <rights>All rights reserved 2025, 宝哥博客</rights>
+    <entry>
+        <title type="html"><![CDATA[一种比较特殊的币]]></title>
+        <id>https://bk.baoge.wang/post/yi-chong-bi-jiao-te-shu-de-bi/</id>
+        <link href="https://bk.baoge.wang/post/yi-chong-bi-jiao-te-shu-de-bi/">
+        </link>
+        <updated>2025-12-03T14:05:55.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国多部门联合对虚拟货币的最新定性与影响分析]]></title>
+        <id>https://bk.baoge.wang/post/zhong-guo-duo-bu-men-lian-he-dui-xu-ni-huo-bi-de-zui-xin-ding-xing-yu-ying-xiang-fen-xi/</id>
+        <link href="https://bk.baoge.wang/post/zhong-guo-duo-bu-men-lian-he-dui-xu-ni-huo-bi-de-zui-xin-ding-xing-yu-ying-xiang-fen-xi/">
+        </link>
+        <updated>2025-12-01T14:00:33.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pi Network全景解析：从Token2049演讲到piscan.io生态数据的战略与现实对照]]></title>
+        <id>https://bk.baoge.wang/post/pi-network-quan-jing-jie-xi-cong-token2049-yan-jiang-dao-piscanio-sheng-tai-shu-ju-de-zhan-lue-yu-xian-shi-dui-zhao/</id>
+        <link href="https://bk.baoge.wang/post/pi-network-quan-jing-jie-xi-cong-token2049-yan-jiang-dao-piscanio-sheng-tai-shu-ju-de-zhan-lue-yu-xian-shi-dui-zhao/">
+        </link>
+        <updated>2025-10-06T02:06:09.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pi Network现状分析：机遇与挑战并存]]></title>
+        <id>https://bk.baoge.wang/post/pi-network-xian-zhuang-fen-xi-ji-yu-yu-tiao-zhan-bing-cun/</id>
+        <link href="https://bk.baoge.wang/post/pi-network-xian-zhuang-fen-xi-ji-yu-yu-tiao-zhan-bing-cun/">
+        </link>
+        <updated>2025-09-08T10:57:05.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pi Network 节点资料整理与下载导航]]></title>
+        <id>https://bk.baoge.wang/post/pi-network-jie-dian-zi-liao-zheng-li-yu-xia-zai-dao-hang/</id>
+        <link href="https://bk.baoge.wang/post/pi-network-jie-dian-zi-liao-zheng-li-yu-xia-zai-dao-hang/">
+        </link>
+        <updated>2025-07-17T07:02:17.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pi Network认知分析（二）]]></title>
+        <id>https://bk.baoge.wang/post/pi-network-ren-zhi-fen-xi-er/</id>
+        <link href="https://bk.baoge.wang/post/pi-network-ren-zhi-fen-xi-er/">
+        </link>
+        <updated>2025-07-03T03:20:53.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[稳定币解析]]></title>
+        <id>https://bk.baoge.wang/post/wen-ding-bi-jie-xi/</id>
+        <link href="https://bk.baoge.wang/post/wen-ding-bi-jie-xi/">
+        </link>
+        <updated>2025-07-03T02:54:37.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pi Network认知分析（一）]]></title>
+        <id>https://bk.baoge.wang/post/6-yue-fen-pi-network-re-dian-xin-wen-hui-zong/</id>
+        <link href="https://bk.baoge.wang/post/6-yue-fen-pi-network-re-dian-xin-wen-hui-zong/">
+        </link>
+        <updated>2025-06-23T04:52:06.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年稳定币新动态：美国、香港与中国内地的监管与实践]]></title>
+        <id>https://bk.baoge.wang/post/wen-ding-bi-xin-pian-zhang-2025-nian-mei-guo-yu-xiang-gang-de-jian-guan-yu-chuang-xin/</id>
+        <link href="https://bk.baoge.wang/post/wen-ding-bi-xin-pian-zhang-2025-nian-mei-guo-yu-xiang-gang-de-jian-guan-yu-chuang-xin/">
+        </link>
+        <updated>2025-06-05T16:22:04.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[近期Pi Network信息资讯汇总]]></title>
+        <id>https://bk.baoge.wang/post/jin-qi-pi-network-re-dian-xin-wen-hui-zong/</id>
+        <link href="https://bk.baoge.wang/post/jin-qi-pi-network-re-dian-xin-wen-hui-zong/">
+        </link>
+        <updated>2025-06-05T16:00:24.000Z</updated>
+    </entry>
+</feed>
